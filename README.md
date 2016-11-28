@@ -4,7 +4,7 @@ Portal for detailed steps to install CDH 5 on Google Cloud and custom applicatio
 
 ## Installation  
 
-#### Spin up multiple GCP compute instances (Nodes). Verify all prices / charges.
+#### Spin up multiple GCP compute instances nodes (verify all prices / charges)
 
 #### SSH into each node and execute the following:  
 vi /etc/ssh/sshd_config
