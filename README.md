@@ -31,7 +31,7 @@ Disable SELINUX
 	Restart instances  
 	Verify: getenforce   
 	
-Download and Install Cloudera:
+Download and Install Cloudera:  
 	wget http://archive.cloudera.com/cm5/installer/latest/cloudera-manager-installer.bin  
 	chmod u+x cloudera-manager-installer.bin  
 	./cloudera-manager-installer.bin  
