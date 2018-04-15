@@ -1,4 +1,5 @@
 ## Cloudera on Google Cloud
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Portal for detailed steps to install CDH 5 on Google Cloud and custom application integration.
 
